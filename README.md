@@ -1,6 +1,6 @@
 # 📊 Superstore Sales Analysis
 
-This project performs a comprehensive analysis of the Superstore dataset to derive insights into sales performance, profitability, and product trends across different regions, categories, and geographies. It includes key performance indicators (KPIs) and visualizations created using tools like Python, Power BI, or Tableau.
+This project performs a comprehensive analysis of the Superstore dataset to derive insights into sales performance, profitability, and product trends across different regions, categories, and geographies. It includes key performance indicators (KPIs) and visualizations created using tools like Python, Power BI.
 
 ---
 
