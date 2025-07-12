@@ -14,7 +14,7 @@ The dataset contains retail order data, including:
 - **Product Info**: Category, Sub-Category, Product Name
 - **Sales Metrics**: Sales, Profit, Quantity, Discount
   
-
+---------------------------------
 ## 📌 Key Metrics & Visualizations
 
 | No. | Metric | Description | Visualization Type |
@@ -28,5 +28,13 @@ The dataset contains retail order data, including:
 | 7️⃣ | **Sales by Region** | Sales distribution across various markets (APAC, EU, US, etc.) | Pie Chart |
 | 8️⃣ | **Sales by Category** | Sales breakdown by product category (e.g. Technology, Furniture) | Column/Bar Chart |
 | 9️⃣ | **Sales by Country** | Geographic visualization of top 15 countries by sales | Map/Choropleth Chart |
+-----------------
+## 🛠️ Tools & Technologies Used
+
+- **Python**: Pandas, Matplotlib, Seaborn, Plotly
+- **Power BI**: For advanced dashboards and map visuals
+- **Jupyter Notebooke**: For code and data analysis
+- **Git & GitHub**: Version control and collaboration
+
 
 
